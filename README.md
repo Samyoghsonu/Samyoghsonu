@@ -188,7 +188,7 @@ Neural networks, CNNs, RNNs, transfer learning, REST APIs, async workers, queues
 
 ## Featured Projects
 
-<details open>
+<details >
 <summary><b>GiFTEM — AI-Powered Recruiting Platform</b></summary>
 
 <br/>
@@ -349,11 +349,10 @@ Neural networks, CNNs, RNNs, transfer learning, REST APIs, async workers, queues
 
 ## Experience
 
-
+<details>
+<summary><b>AI Engineer / Full Stack AI Engineer — Shuvel Digitech Private Limited</b></summary>
 
 <br/>
-
-### AI Engineer / Full Stack AI Engineer
 
 <div align="center">
 
@@ -412,17 +411,14 @@ Core contributor to **GiFTEM**, an AI-powered recruiting platform that helps rec
 | **Structured AI Analysis** | Built structured AI analysis workflows that use job context and candidate profile data to generate consistent, recruiter-readable evaluation insights. |
 | **Performance & Reliability** | Optimized PostgreSQL queries, API response patterns, background processing, and per-job caching for long-running AI/search workflows, improving response times by **25–40%** and reliability during heavy recruiter operations. |
 
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,35:312E81,70:38BDF8,100:FFFFFF" width="70%" />
-
-</div>
+</details>
 
 <br/>
 
-### Full Stack Developer Intern
+<details>
+<summary><b>Full Stack Developer Intern — Shuvel Digitech Private Limited</b></summary>
+
+<br/>
 
 <div align="center">
 
@@ -477,28 +473,7 @@ Contributed to early **GiFTEM** development by building recruiter-facing candida
 | **Backend API Development** | Developed REST APIs in **Node.js / Express.js** for candidate search, candidate management, and job operations. |
 | **AI-Assisted Sourcing** | Supported AI-assisted sourcing workflows by combining recruiter free-text queries with structured filters to improve candidate search precision. |
 
-<br/>
-
-
-
----
-
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| Production AI Engineering | Building production AI features for GiFTEM, an AI-powered recruiting platform |
-| AI-Assisted Search | Implemented semantic candidate discovery using multiple discovery modes |
-| Recruiter Intelligence | Built candidate-job match insights, skill-gap analysis, and shortlist recommendation workflows |
-| Voice Automation | Developed AI-powered voice outreach automation with transcripts, outcomes, and notifications |
-| Performance Optimization | Improved average response times by 25–40% through PostgreSQL query and API optimization |
-| Full Stack Ownership | Delivered frontend, backend, database, async worker, and AI workflow features end-to-end |
-
-</div>
-
+</details>
 ---
 
 ## Certifications
