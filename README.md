@@ -512,11 +512,22 @@ Contributed to early **GiFTEM** development by building recruiter-facing candida
 </tr>
 
 <tr>
-<td><b>JavaScript</b></td>
+<td><b>JavaScript (Basic)</b></td>
 <td>HackerRank</td>
 <td>2024</td>
 <td>
 <a href="https://www.hackerrank.com/certificates/1df5434c6668" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/View%20Certificate-312E81?style=for-the-badge&logo=javascript&logoColor=FACC15" />
+</a>
+</td>
+</tr>
+
+<tr>
+<td><b>JavaScript (Intermediate)</b></td>
+<td>HackerRank</td>
+<td>2024</td>
+<td>
+<a href="https://www.hackerrank.com/certificates/76b8c3789727" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/View%20Certificate-312E81?style=for-the-badge&logo=javascript&logoColor=FACC15" />
 </a>
 </td>
@@ -534,6 +545,17 @@ Contributed to early **GiFTEM** development by building recruiter-facing candida
 </tr>
 
 <tr>
+<td><b>SQL</b></td>
+<td>HackerRank</td>
+<td>2024</td>
+<td>
+<a href="https://www.hackerrank.com/certificates/4994e5d5e477" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/View%20Certificate-0E7490?style=for-the-badge&logo=css3&logoColor=white" />
+</a>
+</td>
+</tr>
+
+<tr>
 <td><b>Python</b></td>
 <td>HackerRank</td>
 <td>2024</td>
@@ -543,6 +565,19 @@ Contributed to early **GiFTEM** development by building recruiter-facing candida
 </a>
 </td>
 </tr>
+
+<tr>
+<td><b>Python</b></td>
+<td>Kaggle</td>
+<td>2023</td>
+<td>
+<a href="https://www.kaggle.com/learn/certification/samyoghchilivery/python" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/View%20Certificate-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
+</a>
+</td>
+</tr>
+
+
 
 </table>
 
