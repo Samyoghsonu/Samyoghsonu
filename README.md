@@ -474,56 +474,77 @@ Contributed to early **GiFTEM** development by building recruiter-facing candida
 | **AI-Assisted Sourcing** | Supported AI-assisted sourcing workflows by combining recruiter free-text queries with structured filters to improve candidate search precision. |
 
 </details>
+
 ---
 
 ## Certifications
 
-### HackerRank
-
-<img src="https://img.shields.io/badge/HackerRank-Frontend%20Developer%20React-4F46E5?style=for-the-badge&logo=hackerrank&logoColor=white" />
-<img src="https://img.shields.io/badge/HackerRank-React-6D28D9?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/HackerRank-JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/HackerRank-CSS-2563EB?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/HackerRank-Python-312E81?style=for-the-badge&logo=python&logoColor=white" />
-
-### AWS
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Skills-4F46E5?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-Deployment%20Experience-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Database%20Learning-7C3AED?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-Enterprise%20Systems-4F46E5?style=for-the-badge&logo=oracle&logoColor=white" />
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Computer%20Science-312E81?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/NPTEL-Engineering%20Learning-6D28D9?style=for-the-badge&logo=bookstack&logoColor=white" />
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking%20Basics-2563EB?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco-IT%20Fundamentals-4F46E5?style=for-the-badge&logo=cisco&logoColor=white" />
-
----
-
-## Coding Profiles
-
 <div align="center">
 
-<a href="https://leetcode.com/Samyoghsonu">
-  <img src="https://img.shields.io/badge/LeetCode-Practice-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white" />
+<table>
+<tr>
+<th>Certification</th>
+<th>Provider</th>
+<th>Year</th>
+<th>Certificate</th>
+</tr>
+
+<tr>
+<td><b>Frontend Developer React</b></td>
+<td>HackerRank</td>
+<td>2024</td>
+<td>
+<a href="https://www.hackerrank.com/certificates/6ec45dee8168" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/View%20Certificate-020617?style=for-the-badge&logo=hackerrank&logoColor=38BDF8" />
 </a>
-<a href="https://www.geeksforgeeks.org/user/Samyoghsonu">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Practice-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</td>
+</tr>
+
+<tr>
+<td><b>React</b></td>
+<td>HackerRank</td>
+<td>2024</td>
+<td>
+<a href="https://www.hackerrank.com/certificates/eb818647aeff" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/View%20Certificate-1E1B4B?style=for-the-badge&logo=react&logoColor=38BDF8" />
 </a>
-<a href="https://www.hackerrank.com/Samyoghsonu">
-  <img src="https://img.shields.io/badge/HackerRank-Certified-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</td>
+</tr>
+
+<tr>
+<td><b>JavaScript</b></td>
+<td>HackerRank</td>
+<td>2024</td>
+<td>
+<a href="https://www.hackerrank.com/certificates/1df5434c6668" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/View%20Certificate-312E81?style=for-the-badge&logo=javascript&logoColor=FACC15" />
 </a>
-<a href="https://www.codechef.com/users/Samyoghsonu">
-  <img src="https://img.shields.io/badge/CodeChef-Coding-312E81?style=for-the-badge&logo=codechef&logoColor=white" />
+</td>
+</tr>
+
+<tr>
+<td><b>CSS</b></td>
+<td>HackerRank</td>
+<td>2024</td>
+<td>
+<a href="https://www.hackerrank.com/certificates/4f192ed4c6f7" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/View%20Certificate-0E7490?style=for-the-badge&logo=css3&logoColor=white" />
 </a>
+</td>
+</tr>
+
+<tr>
+<td><b>Python</b></td>
+<td>HackerRank</td>
+<td>2024</td>
+<td>
+<a href="https://www.hackerrank.com/certificates/32e1b9f758ff" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/View%20Certificate-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
+</a>
+</td>
+</tr>
+
+</table>
 
 </div>
 
