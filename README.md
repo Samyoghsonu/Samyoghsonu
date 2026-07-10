@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,20:0F172A,45:312E81,70:6D28D9,100:A855F7&text=Samyogh%20Chilivery&fontColor=FFFFFF&fontSize=64&fontAlignY=36&desc=AI%20Engineer%20%7C%20Full%20Stack%20AI%20Engineer%20%7C%20Agentic%20AI%20Builder&descAlignY=56&descSize=20&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,18:0F172A,40:1E1B4B,65:312E81,82:6D28D9,100:9333EA&text=Samyogh%20Chilivery&fontColor=FFFFFF&fontSize=66&fontAlignY=36&desc=AI%20Engineer%20%7C%20Full%20Stack%20AI%20Engineer%20%7C%20Agentic%20AI%20Builder&descAlignY=56&descSize=20&animation=fadeIn&v=21" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+Production-Grade+AI+Systems;GenAI+%7C+RAG+%7C+Agentic+AI+Workflows;LangChain+%7C+LangGraph+%7C+Vector+Search;Next.js+%7C+Node.js+%7C+PostgreSQL+%7C+Redis;AI-Powered+Recruiting+Automation+at+GiFTEM" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=28&duration=2800&pause=900&color=9333EA&center=true&vCenter=true&width=950&lines=Building+Production-Grade+AI+Systems;GenAI+%7C+RAG+%7C+Agentic+AI+Workflows;LangChain+%7C+LangGraph+%7C+Vector+Search;Next.js+%7C+Node.js+%7C+PostgreSQL+%7C+Redis;AI-Powered+Recruiting+Automation+at+GiFTEM&v=21" alt="Typing SVG" />
 
 <br/>
 <br/>
