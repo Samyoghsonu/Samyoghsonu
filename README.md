@@ -621,7 +621,30 @@ Contributed to early **GiFTEM** development by building recruiter-facing candida
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Samyoghsonu/Samyoghsonu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://img.shields.io/badge/GitHub%20Contribution%20Snake-Animated%20Contribution%20Graph-020617?style=for-the-badge&logo=github&logoColor=38BDF8" />
+
+<br/>
+<br/>
+
+<p>
+  This animation is generated from my GitHub contribution graph.  
+  Green blocks represent contribution days, and the snake moves through my contribution activity.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Source-GitHub%20Contributions-020617?style=flat-square&logo=github&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Green%20Blocks-Contribution%20Days-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Purple%20Snake-Animated%20Path-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Updated%20By-GitHub%20Actions-020617?style=flat-square&logo=githubactions&logoColor=38BDF8" />
+</p>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samyoghsonu/Samyoghsonu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samyoghsonu/Samyoghsonu/output/github-contribution-grid-snake.svg">
+  <img width="95%" src="https://raw.githubusercontent.com/Samyoghsonu/Samyoghsonu/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph snake">
+</picture>
 
 </div>
 
