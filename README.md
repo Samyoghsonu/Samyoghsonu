@@ -589,29 +589,21 @@ Contributed to early **GiFTEM** development by building recruiter-facing candida
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samyoghsonu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=A78BFA&text_color=E5E7EB&icon_color=8B5CF6&bg_color=0D1117" />
+<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samyoghsonu&theme=tokyonight&v=2" />
 
 <br/>
 <br/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=Samyoghsonu&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samyoghsonu&theme=tokyonight&v=2" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samyoghsonu&theme=tokyonight&v=2" />
 
 <br/>
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyoghsonu&layout=compact&hide_border=true&title_color=A78BFA&text_color=E5E7EB&bg_color=0D1117" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Samyoghsonu&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&v=2" />
 
 </div>
 
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Samyoghsonu&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
-
-</div>
 
 ---
 
