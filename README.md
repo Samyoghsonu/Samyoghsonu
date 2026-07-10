@@ -23,10 +23,10 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Samyoghsonu">
+<!-- <a href="https://github.com/Samyoghsonu">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
-</a>
-<a href="https://www.linkedin.com/in/samyogh-chilivery">
+</a> -->
+<a href="www.linkedin.com/in/samyoghchilivery">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:samyoghchilivery@gmail.com">
@@ -621,10 +621,8 @@ Contributed to early **GiFTEM** development by building recruiter-facing candida
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitHub%20Contribution%20Snake-Animated%20Contribution%20Graph-020617?style=for-the-badge&logo=github&logoColor=38BDF8" />
+<!-- <img src="https://img.shields.io/badge/GitHub%20Contribution%20Snake-Animated%20Contribution%20Graph-020617?style=for-the-badge&logo=github&logoColor=38BDF8" /> -->
 
-<br/>
-<br/>
 
 <p>
   This animation is generated from my GitHub contribution graph.  
@@ -694,15 +692,15 @@ Open To:
 <a href="mailto:samyoghchilivery@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/samyogh-chilivery">
+<a href="www.linkedin.com/in/samyoghchilivery">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Samyoghsonu">
   <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://github.com/Samyoghsonu">
+<!-- <a href="https://github.com/Samyoghsonu">
   <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+</a> -->
 
 </div>
 
