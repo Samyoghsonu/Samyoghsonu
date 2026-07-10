@@ -26,7 +26,7 @@
 <!-- <a href="https://github.com/Samyoghsonu">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
 </a> -->
-<a href="www.linkedin.com/in/samyoghchilivery">
+<a href="https://www.linkedin.com/in/samyoghchilivery">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:samyoghchilivery@gmail.com">
@@ -692,7 +692,7 @@ Open To:
 <a href="mailto:samyoghchilivery@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="www.linkedin.com/in/samyoghchilivery">
+<a href="https://www.linkedin.com/in/samyoghchilivery">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Samyoghsonu">
