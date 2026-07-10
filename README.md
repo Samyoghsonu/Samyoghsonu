@@ -650,38 +650,81 @@ Contributed to early **GiFTEM** development by building recruiter-facing candida
 
 ## Current Focus
 
-```yaml
-Learning:
-  - Advanced Agentic AI systems
-  - LangGraph production workflows
-  - RAG evaluation and retrieval optimization
-  - LLM gateways, guardrails, and structured outputs
-  - Cloud deployment for AI applications
+<div align="center">
 
-Building:
-  - Production AI features for GiFTEM
-  - AI-assisted candidate evaluation workflows
-  - Semantic candidate discovery systems
-  - Skill-gap analysis workflows
-  - AI-powered recruiter automation
-  - RAG and conversational AI projects
+<img src="https://img.shields.io/badge/Learning-Agentic%20AI%20Systems-020617?style=for-the-badge&logo=openai&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Building-Production%20AI%20Features-1E1B4B?style=for-the-badge&logo=rocket&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Exploring-Enterprise%20AI%20Automation-312E81?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 
-Exploring:
-  - Deep agents
-  - Tool calling systems
-  - Vectorless RAG
-  - Model routing
-  - Human-in-the-loop AI workflows
-  - Enterprise AI automation
+</div>
 
-Open To:
-  - AI Engineer roles
-  - Full Stack AI Engineer roles
-  - GenAI application engineering
-  - Backend-heavy AI product engineering
-  - Open source collaboration
-  - Freelance AI projects
-```
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### Learning
+
+- Advanced **Agentic AI systems**
+- **LangGraph** production workflows
+- RAG evaluation and retrieval optimization
+- LLM gateways, guardrails, and structured outputs
+- Cloud deployment for AI applications
+
+</td>
+<td width="50%" valign="top">
+
+### Building
+
+- Production AI features for **GiFTEM**
+- AI-assisted candidate evaluation workflows
+- Semantic candidate discovery systems
+- Skill-gap analysis workflows
+- AI-powered recruiter automation
+- RAG and conversational AI projects
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Exploring
+
+- Deep agents
+- Tool calling systems
+- Vectorless RAG
+- Model routing
+- Human-in-the-loop AI workflows
+- Enterprise AI automation
+
+</td>
+<td width="50%" valign="top">
+
+### Open To
+
+- AI Engineer roles
+- Full Stack AI Engineer roles
+- GenAI application engineering
+- Backend-heavy AI product engineering
+- Open source collaboration
+- Freelance AI projects
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Agentic%20AI-020617?style=for-the-badge&logo=githubcopilot&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/LangGraph-1E1B4B?style=for-the-badge&logo=graphql&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/RAG-312E81?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM%20Systems-0E7490?style=for-the-badge&logo=openai&logoColor=white" />
+
+</div>
 
 ---
 
