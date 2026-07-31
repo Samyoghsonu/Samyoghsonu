@@ -267,20 +267,21 @@ Neural networks, CNNs, RNNs, transfer learning, REST APIs, async workers, queues
 <br/>
 
 <details>
-<summary><b>RAG & Conversational AI Systems</b></summary>
+<summary><b>Advanced RAG Pipeline for Multi-PDF Question Answering</b></summary>
 
 <br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Document+Question+Answering+Systems;RAG+Pipelines+%7C+Vector+Search+%7C+Conversational+AI" alt="RAG Project" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Advanced+Multi-PDF+Question+Answering;RAG+Pipeline+%7C+Semantic+Search+%7C+Source+Citations" alt="Advanced RAG Pipeline" />
 
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/RAG%20Systems-020617?style=for-the-badge&logo=databricks&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Conversational%20AI-1E1B4B?style=for-the-badge&logo=openai&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Vector%20Search-0E7490?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG%20Pipeline-020617?style=for-the-badge&logo=databricks&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/LangChain-1E1B4B?style=for-the-badge&logo=chainlink&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/ChromaDB-0E7490?style=for-the-badge&logo=database&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq%20Llama%203.1-F55036?style=for-the-badge&logo=meta&logoColor=white" />
 
 </div>
 
@@ -288,7 +289,9 @@ Neural networks, CNNs, RNNs, transfer learning, REST APIs, async workers, queues
 
 ### Overview
 
-> Independent AI projects focused on **LLM applications**, **RAG pipelines**, **vector search**, **conversational AI**, and **LangChain / LangGraph workflows**.
+> An end-to-end **Retrieval-Augmented Generation (RAG)** pipeline that processes multiple PDF documents, retrieves semantically relevant content, and generates context-grounded answers using **Groq Llama 3.1**.
+
+The system combines PDF ingestion, recursive text chunking, SentenceTransformer embeddings, persistent vector storage, semantic retrieval, and LLM-based answer generation. It also provides source information, page references, retrieval confidence scores, answer summaries, and query history.
 
 <br/>
 
@@ -296,48 +299,83 @@ Neural networks, CNNs, RNNs, transfer learning, REST APIs, async workers, queues
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
 
 <br/>
 <br/>
 
 <img src="https://img.shields.io/badge/LangChain-020617?style=flat-square&logo=chainlink&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/LangGraph-020617?style=flat-square&logo=graphql&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/FAISS-020617?style=flat-square&logo=meta&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/ChromaDB-020617?style=flat-square&logo=database&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Pinecone-020617?style=flat-square&logo=pinboard&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/OpenAI-020617?style=flat-square&logo=openai&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Streamlit-020617?style=flat-square&logo=streamlit&logoColor=FF4B4B" />
+<img src="https://img.shields.io/badge/SentenceTransformers-020617?style=flat-square&logo=huggingface&logoColor=FFD21E" />
+<img src="https://img.shields.io/badge/Hugging%20Face-020617?style=flat-square&logo=huggingface&logoColor=FFD21E" />
+<img src="https://img.shields.io/badge/Groq-020617?style=flat-square&logo=lightning&logoColor=F55036" />
+<img src="https://img.shields.io/badge/Llama%203.1-020617?style=flat-square&logo=meta&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/PyPDF-020617?style=flat-square&logo=adobeacrobatreader&logoColor=EC1C24" />
 
 </div>
 
 <br/>
 
+### RAG Architecture
+
+```mermaid
+flowchart LR
+    A[PDF Documents] --> B[Document Loading]
+    B --> C[Recursive Chunking]
+    C --> D[SentenceTransformer Embeddings]
+    D --> E[(ChromaDB)]
+    F[User Query] --> G[Semantic Retriever]
+    E --> G
+    G --> H[Relevant Context]
+    H --> I[Groq Llama 3.1]
+    I --> J[Grounded Answer]
+```
+
+<br/>
+
 ### Project Highlights
 
-| Area | Details |
+| Area | Implementation |
 |---|---|
-| **Scale** | Document-aware AI applications with ingestion, retrieval, conversational memory, and custom knowledge querying |
-| **Performance** | Retrieval-first architecture using chunking, embeddings, similarity search, and vector stores |
-| **Security** | Controlled document ingestion, scoped retrieval workflows, and safer knowledge-bound answer generation |
-| **Impact** | Enables question answering, AI assistants, semantic search, and custom knowledge retrieval |
+| **Document Ingestion** | Recursively loads multiple PDFs and preserves filename and page-level metadata |
+| **Text Processing** | Uses configurable recursive chunking with overlap for contextual continuity |
+| **Embeddings** | Generates dense embeddings using the `all-MiniLM-L6-v2` SentenceTransformer model |
+| **Vector Storage** | Stores document chunks and metadata in a persistent ChromaDB collection |
+| **Semantic Retrieval** | Supports top-k retrieval, similarity thresholds, distance filtering, and source-file filtering |
+| **Answer Generation** | Uses Groq-hosted Llama 3.1 through LangChain to produce context-grounded answers |
+| **Explainability** | Returns source documents, page references, content previews, and retrieval confidence scores |
+| **Conversation Support** | Maintains query history and optionally generates concise answer summaries |
 
 <br/>
 
 ### Core Contributions
 
-- Built document loading and ingestion workflows for RAG-based question answering.
-- Implemented text chunking, embeddings, vector search, and retriever pipelines.
-- Worked with **FAISS**, **ChromaDB**, and **Pinecone** for similarity-based retrieval.
-- Designed conversational AI workflows with memory and chat history management.
-- Explored **LangChain** and **LangGraph** for multi-step AI workflow execution.
+- Built a multi-PDF ingestion pipeline using LangChain document loaders.
+- Implemented recursive text chunking with configurable chunk size and overlap.
+- Generated vector embeddings using the `all-MiniLM-L6-v2` SentenceTransformer model.
+- Created reusable Python components for embedding generation, vector storage, retrieval, and LLM response generation.
+- Implemented persistent vector storage and semantic similarity search using ChromaDB.
+- Added configurable top-k retrieval, similarity-score thresholds, distance filters, and source-document filtering.
+- Integrated Groq Llama 3.1 with LangChain for context-grounded question answering.
+- Added source citations, page references, context previews, retrieval confidence scores, answer summarization, and query history.
+- Handled missing retrieval context to reduce unsupported or ungrounded answers.
+
+<br/>
+
+### Example Use Cases
+
+- Ask questions across multiple research papers and reports.
+- Extract information from resumes and professional documents.
+- Build document-aware AI assistants for private knowledge bases.
+- Retrieve information from a specific source using metadata filters.
+- Generate answers with traceable document and page references.
 
 <br/>
 
 <div align="center">
 
-<a href="https://github.com/Samyoghsonu">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-020617?style=for-the-badge&logo=github&logoColor=38BDF8" />
+<a href="https://github.com/Samyoghsonu/Advanced-Rag-Pipeline">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-020617?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View Advanced RAG Pipeline on GitHub" />
 </a>
 
 </div>
