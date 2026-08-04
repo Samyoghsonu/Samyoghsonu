@@ -23,9 +23,9 @@
 <br/>
 <br/>
 
-<!-- <a href="https://github.com/Samyoghsonu">
+<a href="https://www.samyogh.com/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
-</a> -->
+</a>
 <a href="https://www.linkedin.com/in/samyoghchilivery">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -782,6 +782,9 @@ Contributed to early **GiFTEM** development by building recruiter-facing candida
 <!-- <a href="https://github.com/Samyoghsonu">
   <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
 </a> -->
+<a href="https://www.samyogh.com/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
