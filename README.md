@@ -627,21 +627,14 @@ Contributed to early **GiFTEM** development by building recruiter-facing candida
 
 <div align="center">
 
-<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samyoghsonu&theme=tokyonight&v=2" />
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=Samyoghsonu&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
 
 <br/>
 <br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samyoghsonu&theme=tokyonight&v=2" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samyoghsonu&theme=tokyonight&v=2" />
-
-<br/>
-<br/>
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Samyoghsonu&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&v=2" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Samyoghsonu&bg_color=020617&color=E5E7EB&line=38BDF8&point=FFFFFF&area=true&area_color=312E81&hide_border=true&custom_title=Samyogh's%20GitHub%20Contribution%20Activity" />
 
 </div>
-
 
 ---
 
