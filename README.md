@@ -61,16 +61,6 @@ I work across modern AI and software engineering systems including **LLM applica
 
 <br/>
 
-**Open To**
-
-- AI Engineer roles  
-- Full Stack AI Engineer roles  
-- Backend-heavy AI product engineering  
-- Agentic AI and RAG-based product development  
-- GenAI application development  
-- Open source collaboration  
-- Freelance AI and full stack projects  
-
 ---
 
 ## Tech Stack
@@ -733,29 +723,6 @@ Contributed to early **GiFTEM** development by building recruiter-facing candida
 </td>
 <td width="50%" valign="top">
 
-### Open To
-
-- AI Engineer roles
-- Full Stack AI Engineer roles
-- GenAI application engineering
-- Backend-heavy AI product engineering
-- Open source collaboration
-- Freelance AI projects
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Agentic%20AI-020617?style=for-the-badge&logo=githubcopilot&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/LangGraph-1E1B4B?style=for-the-badge&logo=graphql&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/RAG-312E81?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM%20Systems-0E7490?style=for-the-badge&logo=openai&logoColor=white" />
-
-</div>
 
 ---
 
